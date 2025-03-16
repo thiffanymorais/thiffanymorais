@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ACA1D2&width=435&lines=Estudante+em+Forma%C3%A7%C3%A3o%F0%9F%8E%93%E2%8B%B0;Vamos+nos+conectar+no+linkedin%E2%98%86" alt="Typing SVG" /></a>
 </p>
 
-**`DEV`** **`UI/UX DESIGNEr`** **`SQL`**👩🏻‍💻
+**`DEV`** **`UI/UX DESIGNEr`** **`SQL`** 
 
 Me chamo Thiffany Morais Vieira da Silva, tenho 24 anos e sou natural de Itanhaém - SP. Concluí o ensino médio em escola publica, com o curso técnico em contabilidade na ETEC - JOSE ROCHA MENDES. Atualmente, estou cursando Ciências da Computação na FECAP. Acredito que a tecnologia é o que realmente nos impulsiona e, por isso, decidi aprofundar meus conhecimentos nesta área. Meu objetivo é construir uma base sólida de aprendizado para contribuir de maneira significativa ao mundo da tecnologia. Estou me apaixonando pelo desenvolvimento front-end, mas sei que ainda tenho muito a explorar e aprender.
 
@@ -44,7 +44,7 @@ Me chamo Thiffany Morais Vieira da Silva, tenho 24 anos e sou natural de Itanha�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias 👩🏻‍💻
 
 <img 
     align="left" 
