@@ -76,4 +76,4 @@ Estou me **apaixonando pelo desenvolvimento front-end**, mas sei que ainda há m
 
 ---
 
-✨ *“Transformando curiosidade em código.”* 🚀
+✨ *“Transformando curiosidade em código.”* 🚀🎇
