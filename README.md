@@ -5,7 +5,7 @@
 
 **`DEV`** **`UI/UX DESIGNEr`** **`SQL`** 
 
-Me chamo Thiffany Morais Vieira da Silva, tenho 24 anos e sou natural de Itanhaém - SP. Concluí o ensino médio em escola publica, com o curso técnico em contabilidade na ETEC - JOSE ROCHA MENDES. Atualmente, estou cursando Ciências da Computação na FECAP. Acredito que a tecnologia é o que realmente nos impulsiona e, por isso, decidi aprofundar meus conhecimentos nesta área. Meu objetivo é construir uma base sólida de aprendizado para contribuir de maneira significativa ao mundo da tecnologia. Estou me apaixonando pelo desenvolvimento front-end, mas sei que ainda tenho muito a explorar e aprender.
+Me chamo Thiffany Morais V. da Silva, tenho 24 anos e sou natural de Itanhaém - SP. Concluí o ensino médio em escola publica, com o curso técnico em contabilidade na ETEC - JOSE ROCHA MENDES. Atualmente, estou cursando Ciências da Computação na FECAP. Acredito que a tecnologia é o que realmente nos impulsiona e, por isso, decidi aprofundar meus conhecimentos nesta área. Meu objetivo é construir uma base sólida de aprendizado para contribuir de maneira significativa ao mundo da tecnologia. Estou me apaixonando pelo desenvolvimento front-end, mas sei que ainda tenho muito a explorar e aprender.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/thiffany-morais/F">
