@@ -1,7 +1,7 @@
 Thiffany Morais 👩🏻‍🎓🖤
 
 <a href="https://git.io/typing-svg">
-  <imagem src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ACA1D2&width=435&lines=Estudante+em+Forma%C3%A7%C3%A3o%F0%9F%8E%93%E2%8B%B0;Vamos+nos+conectar+no+LinkedIn%E2%98%86" alt="Digitando SVG" />
+  <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ACA1D2&width=435&lines=Estudante+em+Forma%C3%A7%C3%A3o%F0%9F%8E%93%E2%8B%B0;Vamos+nos+conectar+no+LinkedIn%E2%98%86" alt="Digitando SVG" />
 </a>
 
 ---
